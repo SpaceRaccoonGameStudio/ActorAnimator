@@ -42,11 +42,21 @@
 
 [Click to download](https://drive.google.com/drive/folders/1gdHLp2W7--clUQg_rnfmPyicdMbNvKX7)
 
+# Lessons
+
+Please see our youtube tutorials for get examples how to use plugin: [Click here to watch](https://www.youtube.com/playlist?list=PLz2Nf3UDHR63MacOOsv3kTczdiK8AG1yB)
+
+# Blueprint nodes
+
 # FAQ
+
+Q: **I can do the same on blueprints and timelines. Why do I need your plugin?**
+
+A: You can create extensive logic when using the plugin, use animation presets to avoid duplication, and much more. With the plugin, you will achieve the desired result much faster.
 
 Q: **What platforms are supported?**
 
-A: Now it is Win32,Win64, Mac, Linux, Android, IOS - tested & worked. Potentially it should work on any platform. If you have any problems with platforms - please write me, I  will be fixt it
+A: Potentially it should work on any platform
 
 
 # Support
