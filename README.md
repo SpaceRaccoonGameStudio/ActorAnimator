@@ -1,6 +1,6 @@
-# ActorAnimator
+# Actor animator
 # What is it?
-**ActorAnimator** is a plugin that allows you to animate the components of the actors using curves and splines. With this plugin, you can easily create smooth and realistic animations that can be used in various projects, including games, architectural renderings, and others.
+**[Actor animator](https://www.unrealengine.com/marketplace/en-US/product/actor-animator-animate-any-actor-using-curves-and-splines)** is a plugin that allows you to animate the components of the actors using curves and splines. With this plugin, you can easily create smooth and realistic animations that can be used in various projects, including games, architectural renderings, and others.
 
 # Features
 
