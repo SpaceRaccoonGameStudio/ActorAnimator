@@ -47,6 +47,26 @@
 Please see our youtube tutorials for get examples how to use plugin: [Click here to watch](https://www.youtube.com/playlist?list=PLz2Nf3UDHR63MacOOsv3kTczdiK8AG1yB)
 
 # Blueprint nodes
+# Play
+![alt_text](images/play.png "play")
+
+# Pause
+![alt_text](images/pause.png "pause")
+
+# Resume
+![alt_text](images/resume.png "resume")
+
+# Reverse
+![alt_text](images/reverse.png "reverse")
+
+# Set speed
+![alt_text](images/setspeed.png "set speed")
+
+# Stop
+![alt_text](images/stop.png "stop")
+
+# Events
+![alt_text](images/events.png "events")
 
 # FAQ
 
