@@ -21,6 +21,15 @@
 * Animate any actors placed to level (with some limitations)
 * Combinate animations
 
+# Table of content:
+- [How it is work?](#how-it-is-work)
+- [Demo project](#demo-project)
+- [Example project](#example-project)
+- [Lessons](#lessons)
+- [Blueprint nodes](#blueprint-nodes)
+- [FAQ](#faq)
+- [Support](#support)
+
 # How it is work?
 
 * You add a component to any actor
